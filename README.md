@@ -22,5 +22,3 @@
 #### Pathfinder: Kingermaker
 - [Pathfinder: Kingmaker #playwithfire Wiki](https://wiki.fireundubh.com/kingmaker)
 - [JSON Blueprint Dump](https://github.com/spacehamster/KingmakerCustomBlueprints/releases/tag/blueprints)
-#### Pillars of Eternity II: Deafire
-- [Pillars of Eternity II: Deadfire #playwithfire  Wiki](https://wiki.fireundubh.com/deadfire)
