@@ -22,3 +22,8 @@
 #### Pathfinder: Kingermaker
 - [Pathfinder: Kingmaker #playwithfire Wiki](https://wiki.fireundubh.com/kingmaker)
 - [JSON Blueprint Dump](https://github.com/spacehamster/KingmakerCustomBlueprints/releases/tag/blueprints)
+
+## Tools
+- [dotPeek](https://www.jetbrains.com/decompiler/download/)
+- [dnSpy](https://ci.appveyor.com/project/0xd4d/dnspy/branch/master/artifacts)
+- [ILSpy](https://github.com/icsharpcode/ILSpy)
