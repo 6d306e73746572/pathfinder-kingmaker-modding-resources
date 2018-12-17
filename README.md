@@ -14,3 +14,13 @@
 - [Patchwork Guide](https://github.com/GregRos/Patchwork/blob/master/README.md)
 - [Patchwork Project Structure](https://wiki.fireundubh.com/unity/patchwork-project-structure)
 - [Patchwork Design Patterns](https://wiki.fireundubh.com/unity/patchwork-design-patterns)
+
+## Resources
+### Unity
+- [#playwithfire Unity](https://wiki.fireundubh.com/unity)
+### Game Specific
+#### Pathfinder: Kingermaker
+- [#playwithfire Pathfinder: Kingmaker](https://wiki.fireundubh.com/kingmaker)
+- [JSON Blueprint Dump](https://github.com/spacehamster/KingmakerCustomBlueprints/releases/tag/blueprints)
+#### Pillars of Eternity II: Deafire
+- [#playwithfire Pillars of Eternity II: Deadfire](https://wiki.fireundubh.com/deadfire)
