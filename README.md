@@ -7,6 +7,8 @@
 ### Mod Creation
 #### Harmony
 - [How To Create A Mod For Unity Game](https://github.com/newman55/unity-mod-manager/wiki/How-to-create-a-mod-for-unity-game)
-#### Patchworks
+- [Another Simple Harmony Transpiler Tutorial](https://github.com/blushiemagic/tModLoader/wiki/Another-Simple-Harmony-Transpiler-Tutorial)
+- [Simple Harmony Transpiler Tutorial](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
+#### Patchwork
 - [Patchwork Project Structure](https://wiki.fireundubh.com/unity/patchwork-project-structure)
 - [Patchwork Design Patterns](https://wiki.fireundubh.com/unity/patchwork-design-patterns)
