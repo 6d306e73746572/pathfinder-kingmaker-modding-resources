@@ -1,4 +1,4 @@
-# Unity Modding Resources
+# Unity Modding
 
 ## Tutorials
 ### Debugging
