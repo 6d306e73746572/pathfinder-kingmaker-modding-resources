@@ -1,4 +1,4 @@
-# Pathfinder: Kingmaker - Modding Resources
+# Unity Modding Resources
 
 ## Tutorials
 ### Debugging
