@@ -17,10 +17,10 @@
 
 ## Resources
 ### Unity
-- [#playwithfire Unity](https://wiki.fireundubh.com/unity)
+- [Unity #playwithfire Wiki](https://wiki.fireundubh.com/unity)
 ### Game Specific
 #### Pathfinder: Kingermaker
-- [#playwithfire Pathfinder: Kingmaker](https://wiki.fireundubh.com/kingmaker)
+- [Pathfinder: Kingmaker #playwithfire Wiki](https://wiki.fireundubh.com/kingmaker)
 - [JSON Blueprint Dump](https://github.com/spacehamster/KingmakerCustomBlueprints/releases/tag/blueprints)
 #### Pillars of Eternity II: Deafire
-- [#playwithfire Pillars of Eternity II: Deadfire](https://wiki.fireundubh.com/deadfire)
+- [Pillars of Eternity II: Deadfire #playwithfire  Wiki](https://wiki.fireundubh.com/deadfire)
