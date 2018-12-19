@@ -4,7 +4,8 @@
 ### Mod Creation
 #### Harmony
 - [Harmony Wiki](https://github.com/pardeike/Harmony/wiki)
-- [How To Create A Mod For Unity Game](https://github.com/newman55/unity-mod-manager/wiki/How-to-create-a-mod-for-unity-game)
+- [Unity Mod Manager - How To Create A Mod For Unity Game](https://github.com/newman55/unity-mod-manager/wiki/How-to-create-a-mod-for-unity-game)
+- [uMod Framework - Documentation](https://umodframework.com/documentation.html)
 - [Simple Harmony Transpiler Tutorial (Rimworld)](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
 - [Another Simple Harmony Transpiler Tutorial (Terraria)](https://github.com/blushiemagic/tModLoader/wiki/Another-Simple-Harmony-Transpiler-Tutorial)
 #### Patchwork
@@ -22,8 +23,10 @@
 #### Pathfinder: Kingermaker
 - [Pathfinder: Kingmaker #playwithfire Wiki](https://wiki.fireundubh.com/kingmaker)
 - [JSON Blueprint Dump](https://github.com/spacehamster/KingmakerCustomBlueprints/releases/tag/blueprints)
-
 ## Tools
 - [dotPeek](https://www.jetbrains.com/decompiler/download/)
 - [dnSpy](https://ci.appveyor.com/project/0xd4d/dnspy/branch/master/artifacts)
 - [ILSpy](https://github.com/icsharpcode/ILSpy)
+- [de4dot](https://ci.appveyor.com/project/0xd4d/de4dot/branch/master/artifacts)
+- [AssetStudio](https://github.com/Perfare/AssetStudio/releases)
+- [Unity Assets Bundle Extractor](https://github.com/DerPopo/UABE/releases)
