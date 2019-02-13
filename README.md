@@ -8,10 +8,15 @@
 - [uMod Framework - Documentation](https://umodframework.com/documentation.html)
 - [Simple Harmony Transpiler Tutorial (Rimworld)](https://gist.github.com/pardeike/c02e29f9e030e6a016422ca8a89eefc9)
 - [Another Simple Harmony Transpiler Tutorial (Terraria)](https://github.com/blushiemagic/tModLoader/wiki/Another-Simple-Harmony-Transpiler-Tutorial)
+
 #### Patchwork
 - [Patchwork Guide](https://github.com/GregRos/Patchwork/blob/master/README.md)
 - [Patchwork Project Structure](https://wiki.fireundubh.com/unity/patchwork-project-structure)
 - [Patchwork Design Patterns](https://wiki.fireundubh.com/unity/patchwork-design-patterns)
+
+#### BepInEx (Harmony & Mono.Cecil)
+- [BepInEx Wiki](https://github.com/BepInEx/BepInEx/wiki)
+
 ### Debugging
 - [Debugging Unity Games](https://github.com/0xd4d/dnSpy/wiki/Debugging-Unity-Games)
 - [Turning A Release Build Into A Debug Build](https://wiki.fireundubh.com/unity/turning-a-release-build-into-a-debug-build)
